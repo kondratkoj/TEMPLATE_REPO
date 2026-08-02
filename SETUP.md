@@ -12,7 +12,7 @@ Repo names use hyphens, not spaces (e.g. `restaurant-page`, not `Restaurant Page
 - [ ] `description` — what the project is
 - [ ] `repository.url` — `git+https://github.com/kondratkoj/<repo-name>.git`
 - [ ] `bugs.url` — `https://github.com/kondratkoj/<repo-name>/issues`
-- [ ] `homepage` — `https://github.com/kondratkoj/<repo-name>#readme`
+- [ ] `homepage` — `https://github.com/kondratkoj/<repo-name>/readme`
 
 **`src/template.html`**
 
