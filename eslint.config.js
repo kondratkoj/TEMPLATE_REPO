@@ -13,6 +13,12 @@ export default defineConfig([
     languageOptions: { globals: globals.browser },
   },
   {
+    files: ["src/**/*.test.js"],
+    languageOptions: {
+      globals: globals.jest,
+    },
+  },
+  {
     files: ["*.js"],
     plugins: { js },
     extends: ["js/recommended"],

@@ -8,6 +8,8 @@ Includes:
 - GitHub Pages deployment
 - ESLint
 - Prettier
+- Jest
+- Babel
 - CSS reset and global stylesheet
 - VS Code format-on-save settings
 
